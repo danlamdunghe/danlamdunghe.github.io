@@ -23,3 +23,127 @@
     min-height: 100%;
   
   }
+
+  
+.bgimg-2 {
+  opacity: 1;
+  background-image: url("https://i.ytimg.com/vi/9d4ghvLhdDY/maxresdefault.jpg");
+  min-height: 400px;
+}
+
+.bgimg-3 {
+  opacity: 1;
+  background-image: url("https://tophat.com/wp-content/uploads/2017/05/BLOG_code.jpg");
+  min-height: 400px;
+}
+
+.style1 {
+  font-family: 'Cormorant SC';
+  font-size: 18px
+  color: 000#;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: 0%; 
+  width: 100%;
+
+}
+  .style2 {
+  font-family: 'Major Mono Display', monospace;   
+  color: 000#;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: 30%; 
+  width: 100%;
+
+}
+
+
+
+.style1 span.border {
+  left: 0;
+  top: 0%;
+  color: #fff;   
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.style2 span.intro { 
+  color: #fff;   
+  padding: 18px;
+  font-size: 100x;
+  letter-spacing: 1px;
+
+}
+
+h3 {
+  letter-spacing: 5px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 30px;
+  color: #111;
+  text-shadow: 0.1em 0.1em 0.2em grey
+}
+
+.h3 span.profile { 
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  color: #111;
+}
+
+.h3 span.microsoft{ 
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  color: white;
+}
+.h3 span.summary { 
+  letter-spacing: 5px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 30px;
+  color: black;
+  top: 60%;
+  text-align: center;
+  text-shadow: 0.1em 0.1em 0.2em white
+
+}
+ .h3 span.contribute { 
+  letter-spacing: 5px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 30px;
+  color: white;
+  top: 80%;
+  text-align: center;
+  text-shadow: 0.1em 0.1em 0.2em black
+
+}
+
+ .author {
+  font-family: 'Arima Madurai', cursive;
+  font-size: 18px;
+  text-align: left;
+}
+
+  .quote {
+  font-family: 'Charmonman', cursive;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+.copy {
+    font-family: 'Arima Madurai', cursive;
+    background-color:#DDDDDD;
+    text-align: cnter;
+    color: black;
+    font-size: 18px;
+}
+
+                    
