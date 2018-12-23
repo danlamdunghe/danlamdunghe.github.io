@@ -17,6 +17,12 @@
     background-size: cover;
 } 
 
+.gioithieu2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    color: white;
+}
+
 .bgimg-1 {
     opacity: 1;  
     background-image: url("wallpaper.jpg");
