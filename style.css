@@ -31,6 +31,16 @@
 
 }
 
+.vetoi {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    left: 0;
+    top: 10px; 
+    width: 100%;
+}
+
 .bgimg-1 {
     opacity: 1;  
     background-image: url("wallpaper.jpg");
@@ -154,7 +164,7 @@ h3 {
 .copy {
     font-family: 'Arima Madurai', cursive;
     background-color:#DDDDDD;
-    text-align: cnter;
+    text-align: center;
     color: black;
     font-size: 18px;
 }
