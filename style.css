@@ -33,7 +33,7 @@
   
 .bgimg-2 {
   opacity: 1;
-  background-image: url("https://i.ytimg.com/vi/9d4ghvLhdDY/maxresdefault.jpg");
+  background-image: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/06/forest-patrol.jpg");
   min-height: 400px;
 }
 
@@ -84,7 +84,7 @@
 
 }
 
-h3 {
+.h3 {
   letter-spacing: 5px;
   font-family: 'Playfair Display SC', serif;
   font-size: 30px;
